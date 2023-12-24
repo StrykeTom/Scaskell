@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Simple Haskell Port Scanner</title>
+
 <style>
   body {
     font-family: Arial, sans-serif;

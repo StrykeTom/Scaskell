@@ -1,26 +1,4 @@
 
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-  }
-  h1 {
-    color: #333;
-  }
-  h2 {
-    color: #333;
-    font-size: 1.5em;
-  }
-  ul {
-    list-style-type: none;
-  }
-  li {
-    margin-bottom: 10px;
-  }
-  .warning {
-    color: red;
-  }
-</style>
 </head>
 <body>
 
